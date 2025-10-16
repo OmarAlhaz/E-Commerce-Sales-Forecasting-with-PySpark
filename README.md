@@ -30,14 +30,11 @@ This workflow provides the **Sales & Operations Planning (S&OP)** team with insi
 ecommerce-sales-forecasting/
 │
 ├── data/
-│   └── Online Retail.csv                     # Raw input dataset
+│   └── Online_Retail_part1.csv               # Raw input dataset split in parts
+│   └── Online_Retail_part2.csv               # Raw input dataset split in parts
 │
 ├── scripts/
 │   └── sales_forecast_pyspark.py             # End-to-end PySpark forecasting pipeline
-│
-├── outputs/
-│   ├── predictions/                          # Model predictions & evaluation outputs
-│   └── models/                               # Trained Spark ML model (optional)
 │
 ├── README.md                                 # Project overview and instructions
 ├── requirements.txt                          # Python dependencies
