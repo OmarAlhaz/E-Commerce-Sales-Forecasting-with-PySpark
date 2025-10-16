@@ -87,7 +87,7 @@ ecommerce-sales-forecasting/
 
 ---
 
-## 📊 Output
+## 📊 Example Output
 
 | Metric                                   | Value          |
 | ---------------------------------------- | -------------- |
