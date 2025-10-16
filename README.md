@@ -175,7 +175,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 Developed by [@OmarAlhaz](https://github.com/OmarAlhaz).
 Open to community contributions 🚀
-
----
-
-Would you like me to create a `requirements.txt` for this one too (matching the PySpark + MLlib stack)?
